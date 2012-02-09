@@ -6,6 +6,7 @@ Author: Kendhia
 Description: The plugin detects all pictures on the document(page) that have an ID and turn them all to one picture chosen by the user .
 Version: Beta
 Author URI : kendhiaa.tk
+Email: kendhia@gmail.com
 */
 echo '<script type="text/javascript">'
    , 'window.onload = FindPic;
